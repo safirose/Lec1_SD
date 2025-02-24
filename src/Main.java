@@ -1,4 +1,4 @@
-
+//Et program til at beregne en cirkels areal
 
 public class Main {
     public static void main(String[] args) {
